@@ -1,10 +1,13 @@
-# Name of project
+# All about trees
 
-> A longer description
+> The "All About Trees" website is a fun and engaging platform aimed at
+> educating users about trees. It combines visually appealing design elements
+> with useful resources and interactive links to provide an informative yet
+> lighthearted approach to understanding trees.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [All about trees](#all-about-trees)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
