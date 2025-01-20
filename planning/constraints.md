@@ -2,31 +2,18 @@
 
 Some boundaries around our project.
 
-## External
+## External:
 
-<!--
-  constraints coming from the outside that your team has no control over.
-  These may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+- project deadlines: 2 days
 
-## Internal: Involuntary
+- content availability: Images, videos, and diagrams might require permissions or licensing.
 
-<!--
-  constraints that come from within your team, and you have no control over.
-  They may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+- technical issues: the website relies on working links to external resources, which may break or change.
 
-## Internal: Voluntary
+- legal rules: must ensure images and content comply with copyright laws.
+- dependence on others: relying on external organizations or resources could lead to delays if things change on their end
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+## Internal:
+
+- limited skills or team experience: the team may lack expertise in web design, development, or content creation.
+- time constraints: the project has a tight deadline.
