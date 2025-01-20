@@ -1,17 +1,15 @@
 # Design
 
-## Project's design overview
+## Project's Design Overview
 
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+The "All About Trees" website is designed to be visually engaging,
+user-friendly, and educational, aligning with its goal to raise awareness about
+tree conservation. The design focuses on simplicity and accessibility, ensuring
+users can easily find information while enjoying an aesthetically pleasing
+experience.
 
 ---
 
 ## Wireframe(s)
 
-> Include your wireframe(s) and link to wireframe
-
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![](./wireframe.png)

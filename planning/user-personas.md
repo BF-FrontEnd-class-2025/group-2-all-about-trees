@@ -42,7 +42,8 @@ designed to help us tailor the website content and features to their needs.
 
 - **Needs/Goals**
 
-  - Learn how to contribute to environmental sustainability while living in a city.
+  - Learn how to contribute to environmental sustainability while living in a
+    city.
   - Find urban reforestation projects or organizations to support.
   - Discover small, actionable tips to reduce his carbon footprint.
 
