@@ -9,6 +9,7 @@ body {
   background-color: black;
   color: white;
 }
+
 .toggle {
   width: 20px;
 }
@@ -23,7 +24,6 @@ body {
 
 .bottom-divider {
   border-style: none none solid;
-
 }
 
 .spaced-items {
@@ -87,6 +87,6 @@ body {
   font-family: monospace;
 }
 
-.change-color  a {
+.change-color a {
   color: white;
 }
