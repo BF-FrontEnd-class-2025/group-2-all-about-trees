@@ -2,8 +2,16 @@ body {
   background-color: white;
 }
 
+.centered-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
 .bottom-divider {
-  border-style: none none solid none;
+  border-style: none solid;
 }
 
 .spaced-items {
@@ -11,13 +19,12 @@ body {
   flex-direction: row;
   align-content: center;
   justify-content: space-around;
-
   padding-top: 2%;
   padding-bottom: 2%;
 }
 
 .top-divider {
-  border-style: solid none none none;
+  border-style: solid none none;
 }
 
 .bouncy-img {
