@@ -45,4 +45,11 @@ body {
   80% {
     transform: translateY(-10px);
   }
+  .fascinating-words {
+  font-family: fantasy;
 }
+
+.interesting-things {
+  list-style-type: square;
+  }
+
