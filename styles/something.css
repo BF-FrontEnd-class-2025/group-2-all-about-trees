@@ -11,7 +11,7 @@ body {
 }
 
 .bottom-divider {
-  border-style: none solid;
+  border-style: none none solid;
 }
 
 .spaced-items {
