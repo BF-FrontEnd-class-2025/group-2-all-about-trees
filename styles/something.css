@@ -16,7 +16,6 @@ body {
   padding-bottom: 2%;
 }
 
-
 .top-divider {
   border-style: solid none none none;
 }
@@ -25,7 +24,7 @@ body {
   width: 5%;
   height: 5%;
 }
-  
+
 .bouncy-img:hover {
   animation: bounce 1s;
 }
@@ -45,14 +44,17 @@ body {
   80% {
     transform: translateY(-10px);
   }
-  .fascinating-words {
+}
+
+.fascinating-words {
   font-family: fantasy;
 }
 
 .interesting-things {
   list-style-type: square;
-  }
-  .aside-info {
+}
+
+.aside-info {
   width: 40%;
   padding-left: 0.5rem;
   margin-left: 0.5rem;
