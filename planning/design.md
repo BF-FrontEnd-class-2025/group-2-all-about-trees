@@ -12,4 +12,4 @@ experience.
 
 ## Wireframe(s)
 
-![](./wireframe.png)
+![wireframe](./wireframe.png)
