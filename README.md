@@ -1,9 +1,6 @@
 # All about trees
 
-> The "All About Trees" website is a fun and engaging platform aimed at
-> educating users about trees. It combines visually appealing design elements
-> with useful resources and interactive links to provide an informative yet
-> lighthearted approach to understanding trees.
+> The "All About Trees" website is an informative website about saving trees.
 
 ## Table of contents
 
@@ -25,47 +22,85 @@
 
 ## General info
 
-> A short description
+This project, "All About Trees," is an informative website designed to provide
+educational information about trees. It provides resources, interactive content,
+and a user-friendly interface to help users understand the importance of trees
+and how to protect them.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/screenshot-trees.png)
 
 ## Technologies
 
-- Node 14.16.0
+- NPM 10.9.2
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
 ## Setup
 
-- `npm run start`
+- clone the repository
+- `npm install`
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```html
+<header class="centered-items">
+  <img class="bouncy-img" src="./assets/happy-tree.jpg" alt="a smiling tree" />
+  <h1>All About Trees</h1>
+  <img class="bouncy-img" src="./assets/happy-tree.jpg" alt="a smiling tree" />
+</header>
+```
+
+```css
+.bouncy-img {
+  width: 5%;
+  height: 5%;
+}
+
+.bouncy-img:hover {
+  animation: bounce 1s;
+}
+
+@keyframes bounce {
+  0%,
+  20%,
+  60%,
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+
+  40% {
+    -webkit-transform: translateY(-20px);
+    transform: translateY(-20px);
+  }
+
+  80% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+  }
+}
 ```
 
 ## Features
 
 List of features ready and Todos for future development
 
--
--
--
+- [x] header and the title
+- [x] main content
+- [x] resource links for information
+- [x] footer links
 
 To-do list:
 
--
--
+- [ ] a hover effect for the buttons
+- [ ] dark and white theme for the site
 
 ## Status
 
-Project is: _in progress_
+Project is: _done_
 
 ## Inspiration
 
@@ -73,7 +108,10 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+- [Sajid Hussain](https://github.com/SajidHussainabbasi)
+- [Daniiel Mykytiuk](https://github.com/danmkt00)
+- [Harley Clair](https://github.com/harley-dane)
+- [Catherine Lin](https://github.com/boba-milktea)
 
 ## Instructions for use
 
