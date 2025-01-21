@@ -1,55 +1,99 @@
-# Project Name
-
-<!-- describe your project -->
+# All about trees
 
 ---
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- create a repo from the template
+- add collaborators
+- protect the main branch
+- turn on github pages
+- create project board
 
 ---
 
-<!-- copy this section once for each must-have user story -->
+## Title
 
-## user story
+this feature developed on a branch `title`
 
-<!-- each issue created from this section will have the `for: user story` label -->
+### HTML
 
-> "as a ... i can ... so that ..."
+- add `header` tag with class `centered-items`
+- add `h1` and 2 images with class `bouncy-img`
 
-<!-- write any extra notes or description -->
+### CSS
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+- style `centered-items` class which include display and padding
+- style `bouncy-img` class including size
+- add hover to my img
+- add animation to my img
 
-### Logic: user story
+---
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+## Navbar
 
-### Interface: user story
+this feature developed on a branch `navbar`
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### HTML
 
-### Interaction: user story
+- add `navbar` tag with class `bottom-divider`
+- add `div` tag with class `spaced-items`
+- add 3 `a` tags for links
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### CSS
 
-### Documentation: user story
+- style `bottom-divider` class which include a border
+- style `spaced-items` class which include display and padding
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+---
+
+## Main content
+
+this feature developed on a branch `main-content`
+
+### HTML
+
+- add `id` tag with `summary-info`
+- add `p` tag with class `fascinating-words`
+- add `article` tag with id `main-info`
+- add `p` tag for the info
+- add listing with class `interesting-things`
+- add 3 `a` tags to the listing
+
+### CSS
+
+- style `interesting-things` class
+- style `fascinating-words` class
+
+---
+
+## Sidebar
+
+this feature developed on a branch `sidebar`
+
+### HTML
+
+- add `aside` tag with class `aside-info`
+- add `p` tag to `aside` with class `aside-text`
+
+### CSS
+
+- style `aside-info` with `float` and `box-shadow`
+- style `aside-text`
+
+---
+
+## Footer
+
+this feature developed on a branch `footer`
+
+### HTML
+
+- add `footer` tag with class `top-divider spaced-items`
+- add `a` tag to `footer` for three social media links
+
+## CSS
+
+- style `spaced-items` with `display` and `padding`
+
+---
