@@ -1,5 +1,16 @@
 body {
+  padding: 25px;
   background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+.toggle {
+  width: 20px;
 }
 
 .centered-items {
@@ -12,6 +23,7 @@ body {
 
 .bottom-divider {
   border-style: none none solid;
+
 }
 
 .spaced-items {
@@ -53,12 +65,13 @@ body {
   }
 }
 
-.fascinating-words {
+.fascinating-words a {
   font-family: fantasy;
 }
 
 .interesting-things {
   list-style-type: square;
+  color: #c5cacf;
 }
 
 .aside-info {
@@ -72,4 +85,8 @@ body {
 
 .aside-text {
   font-family: monospace;
+}
+
+.change-color  a {
+  color: white;
 }
