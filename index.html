@@ -9,17 +9,18 @@
   </head>
 
   <body>
+    <button onclick="myFunction()"><img src="./planning/togg.webp" alt="luna" class="toggle"></button>
     <!--header-->
     <header class="centered-items">
       <img
         class="bouncy-img"
-        src="./public/happy-tree.jpg"
+        src="./public/happy-tree.png"
         alt="a smiling tree"
       />
       <h1>All About Trees</h1>
       <img
         class="bouncy-img"
-        src="./public/happy-tree.jpg"
+        src="./public/happy-tree.png"
         alt="a smiling tree"
       />
     </header>
@@ -87,5 +88,23 @@
     <footer class="top-divider spaced-items">
       <a href="">twitter</a> <a href="">github</a> <a href="">linkedin</a>
     </footer>
+
+    <script>
+      function myFunction() {
+         var element = document.body;
+         const parent = document.querySelector(".spaced-items");
+         const parent3 = document.querySelector(".aside-text");
+         const parent2 = document.querySelector( ".interesting-things");
+
+          parent.classList.toggle("change-color");
+          parent2.classList.toggle("change-color");
+          parent3.classList.toggle("change-color");
+
+
+
+         element.classList.toggle("dark-mode");
+
+      }
+      </script>
   </body>
 </html>
